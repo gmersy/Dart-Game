@@ -129,9 +129,3 @@ int main()
 		
 	in.close();
 }
-	
-	//~ for(int i = 0; i < eCount; i++)
-	//~ {
-		//~ cout << eArr[i] << endl;
-	//~ }
-	
